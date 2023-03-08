@@ -1,1 +1,1 @@
-https://foreytor.github.io/rsschool-cv/cv
+https://foreytor.github.io/rsschool-cv/
